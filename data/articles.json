@@ -1,5 +1,181 @@
 [
   {
+    "slug": ".html",
+    "title": "| Aagman Pulse",
+    "excerpt": "| Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-04-23T14:37:29Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/.html.html"
+  },
+  {
+    "slug": "indian-markets-volatile-us-iran-ceasefire",
+    "title": "Indian Markets Volatile as US-Iran Ceasefire Expiry Hits Sentiment | Aagman Pulse",
+    "excerpt": "Indian Markets Volatile as US-Iran Ceasefire Expiry Hits Sentiment | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-04-21T02:41:24Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/indian-markets-volatile-us-iran-ceasefire.html"
+  },
+  {
+    "slug": "india-power-transmission-9-lakh-crore-capex-2032",
+    "title": "India Power Transmission to Get \u20b99 Lakh Crore Capex Infusion by 2032 | Aagman Pulse",
+    "excerpt": "India Power Transmission to Get \u20b99 Lakh Crore Capex Infusion by 2032 | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-04-20T10:00:07Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/india-power-transmission-9-lakh-crore-capex-2032.html"
+  },
+  {
+    "slug": "punjab-basmati-exporters-restructuring",
+    "title": "Punjab Basmati Exporters Seek Centre Intervention for Industry Restructuring | Aagman Pulse",
+    "excerpt": "Punjab Basmati Exporters Seek Centre Intervention for Industry Restructuring | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-04-20T10:00:07Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/punjab-basmati-exporters-restructuring.html"
+  },
+  {
+    "slug": "hyundai-motor-union-bonus-demand-30-percent",
+    "title": "Hyundai Motor Union Demands 30% of Net Profit as Performance Bonus | Aagman Pulse",
+    "excerpt": "Hyundai Motor Union Demands 30% of Net Profit as Performance Bonus | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-04-20T08:52:01Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/hyundai-motor-union-bonus-demand-30-percent.html"
+  },
+  {
+    "slug": "sensex-crashes-1056-points-nifty-fii-outflows-march-2026",
+    "title": "Sensex Crashes 1,056 Points, Nifty Down 300+ as FIIs Exit \u20b91.14L Cr in March | Aagman Pulse",
+    "excerpt": "Sensex Crashes 1,056 Points, Nifty Down 300+ as FIIs Exit \u20b91.14L Cr in March | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-30T07:43:22Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/sensex-crashes-1056-points-nifty-fii-outflows-march-2026.html"
+  },
+  {
+    "slug": "rbi-inject-1-5-lakh-crore-liquidity-forex-swaps",
+    "title": "RBI to Inject \u20b91.5 Lakh Crore Liquidity via Forex Swaps and OMOs | Aagman Pulse",
+    "excerpt": "RBI to Inject \u20b91.5 Lakh Crore Liquidity via Forex Swaps and OMOs | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/rbi-inject-1-5-lakh-crore-liquidity-forex-swaps.html"
+  },
+  {
+    "slug": "india-us-trade-deal-tariff-cut-18-percent-500-billion",
+    "title": "India-US Trade Deal: US Tariffs Cut From 25% To 18%, $500 Billion Purchases Pledged | Aagman Pulse",
+    "excerpt": "India-US Trade Deal: US Tariffs Cut From 25% To 18%, $500 Billion Purchases Pledged | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/india-us-trade-deal-tariff-cut-18-percent-500-billion.html"
+  },
+  {
+    "slug": "infosys-wins-1-6-billion-nhs-deal-ai-workforce-platform",
+    "title": "Infosys Wins $1.6 Billion NHS Deal to Build AI-Driven Workforce Platform | Aagman Pulse",
+    "excerpt": "Infosys Wins $1.6 Billion NHS Deal to Build AI-Driven Workforce Platform | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/infosys-wins-1-6-billion-nhs-deal-ai-workforce-platform.html"
+  },
+  {
+    "slug": "adani-ports-acquires-95-percent-gangavaram-port-3604-crore",
+    "title": "Adani Ports Acquires 95% Stake in Gangavaram Port for \u20b93,604 Crore | Aagman Pulse",
+    "excerpt": "Adani Ports Acquires 95% Stake in Gangavaram Port for \u20b93,604 Crore | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/adani-ports-acquires-95-percent-gangavaram-port-3604-crore.html"
+  },
+  {
+    "slug": "fpis-infuse-8500-crore-indian-equities-april-2025",
+    "title": "FPIs Infuse \u20b98,500 Crore Into Indian Equities in Holiday-Shortened Week | Aagman Pulse",
+    "excerpt": "FPIs Infuse \u20b98,500 Crore Into Indian Equities in Holiday-Shortened Week | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/fpis-infuse-8500-crore-indian-equities-april-2025.html"
+  },
+  {
+    "slug": "bhel-shares-surge-8-percent-ntpc-order-win",
+    "title": "BHEL Shares Surge 8% on Major NTPC Order Win, Order Book Strengthens | Aagman Pulse",
+    "excerpt": "BHEL Shares Surge 8% on Major NTPC Order Win, Order Book Strengthens | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/bhel-shares-surge-8-percent-ntpc-order-win.html"
+  },
+  {
+    "slug": "nykaa-q4-fy25-profit-revenue-growth",
+    "title": "Nykaa Q4 FY25 Profit Doubles to \u20b919 Crore, Revenue Up 24% | Aagman Pulse",
+    "excerpt": "Nykaa Q4 FY25 Profit Doubles to \u20b919 Crore, Revenue Up 24% | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/nykaa-q4-fy25-profit-revenue-growth.html"
+  },
+  {
+    "slug": "titan-acquires-100-stake-caratlane-4621-crore",
+    "title": "Titan Acquires 100% Stake in CaratLane for \u20b94,621 Crore at $2B Valuation | Aagman Pulse",
+    "excerpt": "Titan Acquires 100% Stake in CaratLane for \u20b94,621 Crore at $2B Valuation | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/titan-acquires-100-stake-caratlane-4621-crore.html"
+  },
+  {
+    "slug": "tata-power-1-gw-solar-project-rajasthan-sjvn",
+    "title": "Tata Power Renewable Commissions 1 GW Solar Project In Rajasthan For SJVN | Aagman Pulse",
+    "excerpt": "Tata Power Renewable Commissions 1 GW Solar Project In Rajasthan For SJVN | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/tata-power-1-gw-solar-project-rajasthan-sjvn.html"
+  },
+  {
+    "slug": "gold-record-high-88500-rupees-trade-war",
+    "title": "Gold Hits Record High of \u20b988,500 Per 10 Grams on Global Trade War Fears | Aagman Pulse",
+    "excerpt": "Gold Hits Record High of \u20b988,500 Per 10 Grams on Global Trade War Fears | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/gold-record-high-88500-rupees-trade-war.html"
+  },
+  {
+    "slug": "india-wpi-inflation-february-2023-3-85-percent",
+    "title": "India WPI Inflation Eases To 3.85% In February 2023 On Lower Fuel Prices | Aagman Pulse",
+    "excerpt": "India WPI Inflation Eases To 3.85% In February 2023 On Lower Fuel Prices | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/india-wpi-inflation-february-2023-3-85-percent.html"
+  },
+  {
+    "slug": "india-gdp-growth-fy25-q4-rebound",
+    "title": "India GDP Growth Slows to 6.5% in FY25, Q4 Rebounds to 7.4% | Aagman Pulse",
+    "excerpt": "India GDP Growth Slows to 6.5% in FY25, Q4 Rebounds to 7.4% | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/india-gdp-growth-fy25-q4-rebound.html"
+  },
+  {
+    "slug": "zomato-rebrands-eternal-app-unchanged",
+    "title": "Zomato Rebrands as Eternal: Company Name Changes, Food App Unchanged | Aagman Pulse",
+    "excerpt": "Zomato Rebrands as Eternal: Company Name Changes, Food App Unchanged | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/zomato-rebrands-eternal-app-unchanged.html"
+  },
+  {
+    "slug": "ircon-bags-1287-crore-railway-electrification-order-rvnl",
+    "title": "IRCON Bags \u20b91,287 Crore Railway Electrification Order from RVNL | Aagman Pulse",
+    "excerpt": "IRCON Bags \u20b91,287 Crore Railway Electrification Order from RVNL | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/ircon-bags-1287-crore-railway-electrification-order-rvnl.html"
+  },
+  {
+    "slug": "bitcoin-crosses-88000-institutional-interest",
+    "title": "Bitcoin Crosses $88,000 Milestone On Renewed Institutional Interest | Aagman Pulse",
+    "excerpt": "Bitcoin Crosses $88,000 Milestone On Renewed Institutional Interest | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/bitcoin-crosses-88000-institutional-interest.html"
+  },
+  {
+    "slug": "crude-oil-jumps-2-percent-supply-tightness-march-2026",
+    "title": "Crude Oil Jumps 2% as Middle East Tensions Intensify Supply Fears | Aagman Pulse",
+    "excerpt": "Crude Oil Jumps 2% as Middle East Tensions Intensify Supply Fears | Aagman Pulse",
+    "category": "NEWS",
+    "publishedAt": "2026-03-26T15:47:23Z",
+    "url": "https://aagman-market-pulse.vercel.app/articles/crude-oil-jumps-2-percent-supply-tightness-march-2026.html"
+  },
+  {
     "title": "Aimtron FY26 Revenue Jumps 89% to \u20b93,012 Million, PAT Up 79% | Aagman Pulse",
     "slug": "aimtron-fy26-revenue-jumps-89-pat-up-79",
     "category": "COMPANIES",
